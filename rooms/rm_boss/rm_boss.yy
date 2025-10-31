@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "boss_room",
+  "name": "rm_boss",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
