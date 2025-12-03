@@ -31,6 +31,7 @@
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fa6c1937-5c03-4a52-9403-fd8477d2c878",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ff23c753-461f-4caa-a9bf-22006f9fc16d",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8f78dc15-4075-43e8-a8f2-c7ada8c2da1f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"484bea43-5f1b-4529-a806-04586227d88d",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -42,7 +43,7 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 3.0,
+    "length": 4.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
@@ -50,6 +51,7 @@
             {"id":"65089d88-e234-41b5-be25-595b48e2835d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fa6c1937-5c03-4a52-9403-fd8477d2c878","path":"sprites/spr_asteroid_boss/spr_asteroid_boss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0868445d-c354-4cb0-abae-89d4edc0ce59","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ff23c753-461f-4caa-a9bf-22006f9fc16d","path":"sprites/spr_asteroid_boss/spr_asteroid_boss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"0ebc38b1-4447-4471-915a-eaec1525777b","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8f78dc15-4075-43e8-a8f2-c7ada8c2da1f","path":"sprites/spr_asteroid_boss/spr_asteroid_boss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d8a5cb4d-802c-4c9c-95ad-59e247dbb329","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"484bea43-5f1b-4529-a806-04586227d88d","path":"sprites/spr_asteroid_boss/spr_asteroid_boss.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,

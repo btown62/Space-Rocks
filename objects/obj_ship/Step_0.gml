@@ -24,3 +24,5 @@ inst.direction = image_angle;
 cooldown = 10;
 }
 cooldown = cooldown - 1;
+
+
