@@ -16,6 +16,13 @@ motion_add(image_angle, 0.05);
 move_wrap(true, true, 0)
 move_wrap(true, true, sprite_width / 2);
 
+if(mouse_check_button(mb_right)) && (cooldown < 5)
+{
+var inst = instance_create_layer(x, y, "Instances", obj_big_bullet);
+inst.direction = image_angle;
+cooldown = 50;
+}
+
 
 if(mouse_check_button(mb_left)) && (cooldown < 1)
 {
